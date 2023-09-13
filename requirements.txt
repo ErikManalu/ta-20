@@ -1,3 +1,2 @@
 yfinance
-scikit-learn as sklearn
-MinMaxScaler
+scikit-learn
