@@ -3,8 +3,3 @@ scikit-learn
 keras
 tensorflow
 matplotlib
-
-pip install --upgrade tensorflow
-pip install tensorflow==2.12.0
-pip install --upgrade keras
-pip install keras==2.12.0
