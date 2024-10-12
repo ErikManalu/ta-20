@@ -1,5 +1,5 @@
 yfinance
 scikit-learn
 keras
-tensorflow 2.40
+tensorflow==2.40
 matplotlib
